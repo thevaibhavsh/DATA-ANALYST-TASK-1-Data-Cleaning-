@@ -8,7 +8,7 @@ This task involved cleaning and preprocessing a raw dataset using **Microsoft Ex
 
 ## 🗂️ Dataset
 
-**File Used:** [marketing_campaign.xlsx](https://github.com/user-attachments/files/20553251/marketing_campaign.xlsx)
+**Dataset Used:** [marketing_campaign.xlsx](https://github.com/user-attachments/files/20553251/marketing_campaign.xlsx)
  
 **Source:** Customer Personality Analysis (Kaggle)
 
