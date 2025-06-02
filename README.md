@@ -30,7 +30,7 @@ This task involved cleaning and preprocessing a raw dataset using **Microsoft Ex
   - Standardized text format using **Proper Case**
 
 ### 4. **Date Formatting**
-- Converted `Dt_Customer` values to uniform date format: **DD-MM-YYYY**
+- Converted `Dt_Customer` values to uniform date format: **YYYY-MM-DD**
 
 ### 5. **Renamed Columns**
 - All column headers were renamed to:
